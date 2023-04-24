@@ -1,0 +1,16 @@
+#box1{
+   width: 400px;
+   height: 150px;
+   border: 10px solid green;
+}
+#box2{
+    width: 450px;
+    height: 150px;
+    border: 10px solid yellow;
+}
+
+body{
+    border: 2px solid black;
+    padding-bottom: 300px;
+}
+    
