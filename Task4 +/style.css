@@ -1,0 +1,33 @@
+#website {
+    background-color: aqua;
+}
+
+ul {
+    color: red;
+    padding: 0px;
+}
+
+#Navigation {
+    width: 20%;
+    margin: auto;
+    vertical-align: top;
+
+}
+
+#HomePage {
+    width: 75%;
+    margin: auto;
+}
+
+div {
+    display: inline-block;
+}
+
+footer {
+    background-color: gray;
+    color: white;
+    text-align: right;
+    font-weight: bolder;
+    padding: 15px;
+    margin-top: 25px;
+}
