@@ -1,0 +1,32 @@
+#box1{
+    width: 400px;
+    height: 20px;
+    border: 1px solid black;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+}
+#box2{
+    width: 400px;
+    height: 20px;
+    border: 1px solid red;
+
+}
+
+#box3{
+    width: 400px;
+    height: 20px;
+    border: 1px solid black;
+    margin-left: 100px;
+    margin-top: 30px;
+
+}
+
+#box4{
+    width: 400px;
+    height: 20px;
+    border: 1px solid black;
+    margin-top: 30px;
+    margin-right: 100px;
+
+}

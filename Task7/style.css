@@ -1,0 +1,17 @@
+li{
+    border: 5px solid red;
+    margin-bottom: 10px;
+    
+}
+
+#dashed{
+    border:5px dashed  red;
+
+}
+#dotted{
+    border:5px  dotted  red;
+}
+#double{
+    border:3px double  red;
+    
+}
