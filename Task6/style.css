@@ -1,12 +1,14 @@
-#box{
+#box {
     background-color: black;
     border: 30;
     color: white;
-    
+
 }
 
-#box2{
+#box2 {
     width: 200px;
     height: 200px;
     background-color: gray;
+    text-align: center;
+    align-items: center;
 }

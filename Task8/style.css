@@ -1,9 +1,3 @@
-#box1{
-    background-color: green;
-}
-
-ul{
-    text-align: center;
-    color: green;
-    
+div.head{
+    border: 5px solid green;
 }

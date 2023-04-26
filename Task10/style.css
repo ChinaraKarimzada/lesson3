@@ -1,3 +1,34 @@
-#box1{
-    border:2px dashed pink;
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div.outer {
+    background-color: white;
+    border: dashed 5px palevioletred;
+    margin: 20px;
+}
+
+div.inner {
+    background-color: palevioletred;
+    margin: 0px 30px 50px 30px;
+    padding-bottom: 3px;
+}
+
+div .inner-2 {
+    background-color: white;
+    margin: 0px 50px 35px 50px;
+    padding: 20px;
+}
+
+div.content {
+    background-color: white;
+    margin: 10px 200px 10px 200px;
+    padding: 20px 50px 100px 50px;
+    border: dashed 3px palevioletred;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
 }
