@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    background-color:  green;
+    color: green;
+    width: 100%;
+    margin: auto;
+}
+
+div {
+    width: 50%;
+    margin: auto;
+    text-align: left;
+}
+
+ul li{
+    margin-left: 20px;
+}
+
+a {
+    color: springgreen;
+}
+
+h2,
+h3 {
+    margin: 20px 0px;
+}
